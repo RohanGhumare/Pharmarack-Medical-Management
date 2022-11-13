@@ -1,4 +1,4 @@
-                                                       # Pharmarack-Medical-Management
+                                                     # Pharmarack-Medical-Management
                                                        
 
 ⦁	The main objective of the website pharmarack is to manage the details of sales, medicines, stocks, company, inventory.
